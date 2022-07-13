@@ -7,9 +7,13 @@ ruby '3.0.0'
 
 gem 'rails', '~> 7.0.3'
 
+gem 'dry-validation'
+gem 'grape'
+gem 'grape-entity'
+gem 'interactor', '~> 3.0'
+gem 'interactor-contracts'
 gem 'pg', '~> 1.1'
 gem 'puma', '~> 5.0'
-gem 'grape'
 # Build JSON APIs with ease [https://github.com/rails/jbuilder]
 # gem "jbuilder"
 
