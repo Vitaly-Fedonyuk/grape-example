@@ -1,0 +1,2 @@
+class Folower < ApplicationRecord
+end
